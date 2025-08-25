@@ -1,4 +1,5 @@
 ## Architecture
+![Demo query](architecture/demo_query.png)
 
 ```mermaid
 flowchart LR
