@@ -11,4 +11,6 @@ flowchart LR
   end
 
   sql --> v1
+```
+[![Release](https://img.shields.io/github/v/release/amirtalebi58/gans-air-traffic-weather-pipeline)](https://github.com/amirtalebi58/gans-air-traffic-weather-pipeline/releases)  ![Stars](https://img.shields.io/github/stars/amirtalebi58/gans-air-traffic-weather-pipeline?style=social)
 
